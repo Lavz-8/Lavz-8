@@ -1,11 +1,12 @@
-<h1 align="center">Hi there, I'm LAVANYA 👋</h1>
+<div style="display: flex; align-items: center; justify-content: center;">
+  <p style="margin: 0;"> 
+    <a href="https://lavz-8.github.io/Lavanya-Portfolio/" target="_blank">
+      <img src="https://drive.google.com/uc?export=view&id=10tPQIUlVag7jmyTSuhWL7xAEgl4VUZeo" alt="Lavanya's Logo" height="100" />
+    </a> 
+  </p>
+  <h1 style="margin: 0; padding-left: 20px;">Hi there, I'm LAVANYA 👋</h1>
+</div>
 <h3 align="center">A passionate Junior Full Stack Web Developer from India</h3>
-
-<p align="center"> 
-  <a href="https://lavz-8.github.io/Lavanya-Portfolio/" target="_blank">
-    <img src="https://drive.google.com/uc?export=view&id=10tPQIUlVag7jmyTSuhWL7xAEgl4VUZeo" alt="Lavanya's Logo" height="100" />
-  </a> 
-</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lavz-8&label=Profile%20views&color=FF69B4&style=flat" alt="lavz-8" /> </p>
 
