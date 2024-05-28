@@ -1,9 +1,8 @@
 <p align="center"> 
   <a href="https://lavz-8.github.io/Lavanya-Portfolio/" target="_blank">
-    <img src="https://drive.google.com/uc?export=view&id=10tPQIUlVag7jmyTSuhWL7xAEgl4VUZeo" alt="Lavanya's Logo" height="150" />
+    <img src="https://drive.google.com/uc?export=view&id=10tPQIUlVag7jmyTSuhWL7xAEgl4VUZeo" alt="Lavanya's Logo" height="120" />
   </a> 
 </p>
-
 <h1 align="center">Hi there, I'm LAVANYA 👋</h1>
 <h3 align="center">A passionate Junior Full Stack Web Developer from India</h3>
 
