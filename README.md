@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Frontend Development, Python, and 3D Modelling**
 
-- 📫 How to reach me: **[lavanyavaradharajanmy8@gmail.com](mailto:lavanyavaradharajanmy8@gmail.com)**
-
 - 📄 Know about my experiences: [View my Portfolio](https://lavz-8.github.io/Lavanya-Portfolio/)
 
 - ⚡ Fun fact: **I love creating interactive 3D models, researching about Astronomy and exploring blockchain technology!**
@@ -23,6 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="mailto:lavanyavaradharajanmy8@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/lavanya-varadharajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lavanya-varadharajan" height="30" width="40" /></a>
   <a href="https://github.com/Lavz-8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Lavz-8" height="30" width="40" /></a>
   <a href="[https://github.com/Lavz-8](https://www.instagram.com/essences_of_lavanya/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Lavz-8" height="30" width="40" /></a>
@@ -82,7 +81,7 @@
   </li>
 </ul>
 
-
+<h3 align="left">Overall Performance:</h3>
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lavz-8&show_icons=true&locale=en&layout=compact" alt="lavz-8" style="width: 32%;"/>
   <img src="https://github-readme-stats.vercel.app/api?username=lavz-8&show_icons=true&locale=en" alt="lavz-8" style="width: 32%;"/>
