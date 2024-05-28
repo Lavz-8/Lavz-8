@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm LAVANYA VARADHARAJAN 👋</h1>
 <h3 align="center">A passionate Junior Full Stack Web Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lavz-8&label=Profile%20views&color=0e75b6&style=flat" alt="lavz-8" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lavz-8&label=Profile%20views&color=FF69B4&style=flat" alt="lavz-8" /> </p>
 
 - 🌱 I’m currently learning **Advanced JavaScript Frameworks, Blockchain Technologies**
 
@@ -11,14 +11,21 @@
 
 - 📫 How to reach me: **[lavanyavaradharajanmy8@gmail.com](mailto:lavanyavaradharajanmy8@gmail.com)**
 
-- 📄 Know about my experiences: [View my resume](https://drive.google.com/file/d/1rkKo6ar8QCknOqDnWrywBiDKPmn10ss5/view?usp=drive_link)
+- 📄 Know about my experiences: [View my Portfolio](https://lavz-8.github.io/Lavanya-Portfolio/)
 
-- ⚡ Fun fact: **I love creating interactive 3D models and exploring blockchain technology!**
+- ⚡ Fun fact: **I love creating interactive 3D models, researching about Astronomy and exploring blockchain technology!**
+
+<div style="text-align: center;">
+  <button style="background-color: #f79fc1ab; height: 50px; width: 300px; font-size: 23px; text-align: center; border: none;">
+    <a href="https://drive.google.com/file/d/12djC_pNmCS8S1nVNsxMOLhIF7kwUO1f9/view?usp=sharing" style="color: black; text-decoration: none;">View my Resume</a>
+  </button>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/lavanya-varadharajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lavanya-varadharajan" height="30" width="40" /></a>
   <a href="https://github.com/Lavz-8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Lavz-8" height="30" width="40" /></a>
+  <a href="[https://github.com/Lavz-8](https://www.instagram.com/essences_of_lavanya/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Lavz-8" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -76,10 +83,10 @@
 </ul>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lavz-8&show_icons=true&locale=en&layout=compact" alt="lavz-8" /></p>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lavz-8&show_icons=true&locale=en&layout=compact" alt="lavz-8" style="width: 32%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lavz-8&show_icons=true&locale=en" alt="lavz-8" style="width: 32%;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lavz-8&" alt="lavz-8" style="width: 32%;"/>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lavz-8&show_icons=true&locale=en" alt="lavz-8" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lavz-8&" alt="lavz-8" /></p>
-
-<p align="left"> <img src="https://activity-graph.herokuapp.com/graph?username=lavz-8&bg_color=FFFFFF&color=000000&line=000000&point=00FF00" alt="lavz-8" /> </p>
