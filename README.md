@@ -4,7 +4,7 @@
   </a> 
 </p>
 <h1 align="center">Hi there, I'm LAVANYA 👋</h1>
-<h3 align="center">A passionate Junior Full Stack Web Developer from India</h3>
+<h3 align="center">A Multifaceted Developer from India Specializing in AR/VR, Python, and Web Design</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lavz-8&label=Profile%20views&color=FF69B4&style=flat" alt="lavz-8" /> </p>
 
