@@ -22,7 +22,7 @@
 <p align="left">
   <a href="mailto:lavanyavaradharajanmy8@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="email" height="30" width="40" /></a>
   <a href="https://x.com/Lavz_8" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="Lavz_8" height="30" width="40" /></a>
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/X_logo_2023.svg" alt="Lavz_8" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/lavanya-varadharajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lavanya-varadharajan" height="30" width="40" /></a>
   <a href="https://github.com/Lavz-8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Lavz-8" height="30" width="40" /></a>
   <a href="https://www.instagram.com/essences_of_lavanya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Lavz-8" height="30" width="40" /></a>
