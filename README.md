@@ -14,8 +14,6 @@
 
 - 💬 Ask me about **Frontend Development, Python, and 3D Modelling**
 
-- 📄 Know about my experiences: [View my Portfolio](https://lavz-8.github.io/Lavanya-Portfolio/)
-
 - ⚡ Fun fact: **I love creating interactive 3D models, researching about Astronomy and exploring blockchain technology!**
 
 <h3 align="left">Connect with me:</h3>
