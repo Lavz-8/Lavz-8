@@ -1,4 +1,4 @@
-![PinkMinimalistWatercolorBackgroundLinkedinBanner-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/2596e9b5-78ae-47e0-af9f-d05882c999f0)
+![PinkMinimalistWatercolorBackgroundLinkedinBanner-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/279830e4-9171-466c-8dcd-ffbf949698f6)
 
 <p align="center"> 
   <a href="https://lavz-8.github.io/Lavanya-Portfolio/" target="_blank">
