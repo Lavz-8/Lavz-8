@@ -65,6 +65,8 @@
   </a>
 </p>
 
+![PinkSimpleWatercolorLinkedinBanner-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ebad5016-7e7e-47a0-85d0-dc5268afca0c)
+
 <h3 align="left">Projects:</h3>
 <ul>
   <li>
