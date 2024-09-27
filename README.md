@@ -1,3 +1,5 @@
+![PinkMinimalistWatercolorBackgroundLinkedinBanner-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/2596e9b5-78ae-47e0-af9f-d05882c999f0)
+
 <p align="center"> 
   <a href="https://lavz-8.github.io/Lavanya-Portfolio/" target="_blank">
     <img src="https://drive.google.com/uc?export=view&id=10tPQIUlVag7jmyTSuhWL7xAEgl4VUZeo" alt="Lavanya's Logo" height="120" />
