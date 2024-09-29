@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:lavanyavaradharajanmy8@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="email" height="30" width="40" /></a>
-  <a href="https://x.com/Lavz_8" target="blank">
+  <a href="https://x.com/Lavzz_8" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="Lavz_8" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/lavanya-varadharajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lavanya-varadharajan" height="30" width="40" /></a>
   <a href="https://github.com/Lavz-8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Lavz-8" height="30" width="40" /></a>
